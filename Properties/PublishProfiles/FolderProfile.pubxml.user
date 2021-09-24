@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\USERDATA\miguel.garabito\Desktop\API</_PublishTargetUrl>
+    <History>True|2021-09-23T04:37:02.7658995Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="default">
+      <Value>workstation id=APIRopaDB.mssql.somee.com%3bpacket size=4096%3buser id=garabito00_SQLLogin_1%3bpwd=d1cjv62neh%3bdata source=APIRopaDB.mssql.somee.com%3bpersist security info=False%3binitial catalog=APIRopaDB</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

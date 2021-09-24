@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAybhsqZkop0m+jJNF55tzCAAAAAACAAAAAAADZgAAwAAAABAAAAARKscS8rYJjdGM+SwveHQOAAAAAASAAACgAAAAEAAAAMKzDQdjblT2ZdMJVy4C814YAAAAQgvG3tWY96ANHaaPKmaB7jcSCSAnq7PgFAAAAFbe2ps57qSVcciMGSOWjtxtkJDI</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.38/www.ApiASPNET.somee.com/http://ApiASPNET.somee.com</_PublishTargetUrl>
+    <History>False|2021-09-23T04:30:27.8272957Z;False|2021-09-23T00:29:03.3309236-04:00;False|2021-09-23T00:27:41.8173953-04:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="default">
+      <Value>workstation id=APIRopaDB.mssql.somee.com%3bpacket size=4096%3buser id=garabito00_SQLLogin_1%3bpwd=d1cjv62neh%3bdata source=APIRopaDB.mssql.somee.com%3bpersist security info=False%3binitial catalog=APIRopaDB</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
